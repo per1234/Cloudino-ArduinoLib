@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Cloudino	KEYWORD1	Cloudino
+Cloudino	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
